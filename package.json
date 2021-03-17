@@ -1,0 +1,19 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "brain games project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vkube/frontend-project-lvl1.git"
+  },
+  "author": "S.Drozdov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vkube/frontend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/Vkube/frontend-project-lvl1#readme"
+}
