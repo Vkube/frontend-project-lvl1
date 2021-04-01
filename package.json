@@ -2,9 +2,18 @@
   "name": "@hexlet/code",
   "version": "1.0.0",
   "description": "brain games project",
+  "bin": {
+    "brain-games": "bin/brain-games.js",
+    "brain-even": "bin/brain-even.js",
+    "brain-calculator": "bin/brain-calculator.js",
+    "brain-greaterCommonDivisor": "bin/brain-greaterCommonDivisor.js",
+    "brain-progression": "bin/brain-progression.js",
+    "brain-prime": "bin/brain-prime.js"
+  },
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",

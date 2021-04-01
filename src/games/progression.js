@@ -1,4 +1,4 @@
-import generateNumber from '../utils.js';
+import generateNumber from '../generate.js';
 import playGame from '../index.js';
 
 const rule = 'What number is missing in the progression?';
