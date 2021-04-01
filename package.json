@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Vkube/frontend-project-lvl1#readme",
   "dependencies": {
+    "make": "^0.8.1",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
