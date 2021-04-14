@@ -1,7 +1,7 @@
 ## Setup 
 
 ```sh
-$ npm install front-proj-brain-games
+$ npm install 
 ```
 ##  Task
 Познакомиться и настроить окружение (Запуск программ в терминале, настройка и подключение линтера Eslint). 
