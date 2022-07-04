@@ -18,3 +18,12 @@ $ npm install
    4. Определение наибольшего общего делителя.
    5. Определение простого числа.
 
+   [![asciicast](https://asciinema.org/a/ZUyFJFBFtQAUMzHJfPfXDfG6n.svg)](https://asciinema.org/a/ZUyFJFBFtQAUMzHJfPfXDfG6n)
+
+   [![asciicast](https://asciinema.org/a/TRyJ92L18WZ9XZRCtGpXFgN7K.svg)](https://asciinema.org/a/TRyJ92L18WZ9XZRCtGpXFgN7K)
+
+   [![asciicast](https://asciinema.org/a/7eF4dERrjdbjbnOYqesD9JLiZ.svg)](https://asciinema.org/a/7eF4dERrjdbjbnOYqesD9JLiZ)
+
+   [![asciicast](https://asciinema.org/a/83lPjH4ieuSu0JByDxFNOBIfG.svg)](https://asciinema.org/a/83lPjH4ieuSu0JByDxFNOBIfG)
+
+   ![asciicast](https://asciinema.org/a/JWx1gpuKN7DyMgstdTQUGcA0d.svg)](https://asciinema.org/a/JWx1gpuKN7DyMgstdTQUGcA0d)
