@@ -26,4 +26,4 @@ $ npm install
 
    [![asciicast](https://asciinema.org/a/83lPjH4ieuSu0JByDxFNOBIfG.svg)](https://asciinema.org/a/83lPjH4ieuSu0JByDxFNOBIfG)
 
-   ![asciicast](https://asciinema.org/a/JWx1gpuKN7DyMgstdTQUGcA0d.svg)](https://asciinema.org/a/JWx1gpuKN7DyMgstdTQUGcA0d)
+   [![asciicast](https://asciinema.org/a/JWx1gpuKN7DyMgstdTQUGcA0d.svg)](https://asciinema.org/a/JWx1gpuKN7DyMgstdTQUGcA0d)
