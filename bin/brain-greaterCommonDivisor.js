@@ -1,5 +1,5 @@
-#!/usr/bin/node
+#!/usr/bin/env node
 
-import playGcdGame from '../src/games/greaterNumberDivision.js';
+import playGreaterCommonDivisorGame from '../src/games/greaterNumberDivision.js';
 
-playGcdGame();
+playGreaterCommonDivisorGame();
